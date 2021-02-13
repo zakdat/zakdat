@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @zakdat
+- 👀 I’m interested in AI and ML and using them in humanitarian ways
+- 🌱 I’m currently learning how to build AI using Python
+- 💞️ I’m looking to collaborate on anything really
